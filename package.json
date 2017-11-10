@@ -4,7 +4,8 @@
   "description": "A Portfolio project demonstrating webpack build and simple one page web app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack --optimize-minimize",
+    "start": "webpack-dev-server"
   },
   "repository": {
     "type": "git",

@@ -1,0 +1,24 @@
+{
+  "name": "about_portfolio",
+  "version": "1.0.0",
+  "description": "A Portfolio project demonstrating webpack build and simple one page web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsammons/about_portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "webpack",
+    "2017"
+  ],
+  "author": "Laura Sammons",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lsammons/about_portfolio/issues"
+  },
+  "homepage": "https://github.com/lsammons/about_portfolio#readme"
+}

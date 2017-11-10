@@ -1,0 +1,3 @@
+# GitIgnore File
+.DS_Store
+node_modules
